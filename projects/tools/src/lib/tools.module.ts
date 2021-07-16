@@ -5,7 +5,7 @@ import { ToolsComponent } from './tools.component';
 
 @NgModule({
   declarations: [
-    ToolsComponent
+    ToolsComponent,
   ],
   imports: [
   ],
